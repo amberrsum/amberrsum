@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Amber sum
+## Hi there 👋 I'm Amber
 
 ## About me:
  
@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on UXUI and Python
 - 🤔 I’m looking for help with ICT, UXUI, Python, 
 - 💬 Ask me about my everything.
-- 📫 How to reach me: @tungtheartist
+- 📫 How to reach me: ig: @tungtheartist
 - 😄 Pronouns: she
 - ⚡ Fun fact: I am a runner.
 
